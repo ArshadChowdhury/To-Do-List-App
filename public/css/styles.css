@@ -6,7 +6,7 @@
 html {
   background-color: #e4e9fd;
   background-image: -webkit-linear-gradient(65deg, grey 50%, #e4e9fd 50%);
-
+  min-height: 1000px;
   font-family: "helvetica neue";
 }
 
@@ -27,7 +27,7 @@ h1 {
 
 .box {
   max-width: 400px;
-  margin: 50px auto;
+  margin: auto;
   background: white;
   border-radius: 20px;
   box-shadow: 5px 5px 15px -5px rgba(202, 105, 105, 0.3);
